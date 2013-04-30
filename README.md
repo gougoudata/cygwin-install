@@ -1,7 +1,7 @@
 cygwin-install
 ==============
 
-Semi-automated installation script of **Cygwin** for Windows.
+Semi-automated installation script of **Cygwin**.
 
 Licence
 -------
