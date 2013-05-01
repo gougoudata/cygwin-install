@@ -4,10 +4,10 @@ set _ROOTDIR=d:\tools\cygwin
 set _SITE=http://mirrors.kernel.org/sourceware/cygwin
 
 rem Enable logging of sshd and it's ilk to /var/log.
-set _CONFIG_SYSLOGD=True
+set _CONFIG_SYSLOGD=False
 
 rem Enable OpenSSH server.
-set _CONFIG_SSHD=True
+set _CONFIG_SSHD=False
 
 rem Enable LSA authentication.
 rem See http://cygwin.com/cygwin-ug-net/ntsec.html
